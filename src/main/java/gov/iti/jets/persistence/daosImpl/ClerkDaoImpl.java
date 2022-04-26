@@ -61,7 +61,6 @@ public enum ClerkDaoImpl implements ClerkDao {
 
     @Override
     public List<ClerkEntity> getClerks() {
-        //from users where 
         return entityManager.createQuery("SELECT * FROM ecommerce.users where userType='clerks'", ClerkEntity.class).getResultList();
     }
 
