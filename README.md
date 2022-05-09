@@ -47,7 +47,16 @@ A simple ecommerce restful api using JAX-RS.
 
 
 ## Entity-Relationship Diagram
+
+<p align="center">
+  <img src="src/main/resources/images/erd.png" title="erd">
+</p>
+
 ## Database Schema
+
+<p align="center">
+  <img src="src/main/resources/images/dbSchema.png" title="erd">
+</p>
 
 ## Run Locally
 
