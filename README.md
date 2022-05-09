@@ -54,6 +54,10 @@ A simple ecommerce restful api using JAX-RS.
 
 ## Database Schema
 
+<p align="center">
+  <img src="src/main/resources/images/dbSchema.png" title="erd">
+</p>
+
 ## Run Locally
 
 Clone the project
