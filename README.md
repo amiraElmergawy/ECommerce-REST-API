@@ -63,10 +63,10 @@ Go to the project directory
   cd ECommerce-REST-API
 ```
 
-- Create db user and set the username and password values in the persistence.xml
-- Create db named e-commerce in your MySql Server
-- Run your tomcat apache server and then change the configuration of tomcat in pom.xml
-- Deploy the application using the following maven command
+- Create db user and set the username and password values in the persistence.xml.
+- Create db named ecommerce in your MySql Server.
+- Run your tomcat apache server and then change the configuration of tomcat in pom.xml.
+- Finally, deploy the application using the following maven command.
 
 
 ```bash
